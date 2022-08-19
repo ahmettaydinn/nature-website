@@ -1,4 +1,4 @@
-# Project : College Website 
+# Project : Nature Responsive Website 
 
 ## Description
 Project aims to create a responsive college website.
@@ -22,7 +22,7 @@ college-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/responsive_website_two/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
+<a href="https://bavi-boop.github.io/responsive_website_two/"><img src="nature.jpg" alt="screenshot" width="600" height="500"></a>
 
 ## Live Website
 
