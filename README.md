@@ -22,7 +22,7 @@ college-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/responsive_website_two/"><img src="nature.jpg" alt="screenshot" width="600" height="500"></a>
+<a href="https://bavi-boop.github.io/responsive_website_two/"><img src="nature.png" alt="screenshot" width="600" height="500"></a>
 
 ## Live Website
 
