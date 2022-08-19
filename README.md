@@ -1,11 +1,11 @@
 # Project : Nature Responsive Website 
 
 ## Description
-Project aims to create a responsive college website.
+Project aims to create a nature website.
 
 ## Problem Statement
 
-- Your college has recently started on a project that aims to create a official website. So you and your colleagues have started to work on the project.
+- Your company has recently started on a project that aims to create a official website. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton 
 
