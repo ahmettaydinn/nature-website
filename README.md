@@ -22,12 +22,12 @@ college-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/responsive_website_two/"><img src="nature.png" alt="screenshot" width="650" height="350"></a>
+<a href="https://bavi-boop.github.io/nature-website/"><img src="nature.png" alt="screenshot" width="650" height="350"></a>
 
 ## Live Website
 
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/responsive_website_two/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/nature-website/">Live Website</a>
 <hr>
 
 ### At the end of the project, following topics are to be covered;
