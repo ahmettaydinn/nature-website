@@ -1,7 +1,6 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="hello.png" alt="screenshot"></a>
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="profile.png" alt="screenshot"></a>
 </p>
-
 
 
 
